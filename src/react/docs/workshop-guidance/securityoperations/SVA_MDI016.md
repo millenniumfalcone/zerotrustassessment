@@ -8,4 +8,5 @@
 This article discusses the use of identity-based honeytokens in Microsoft Defender to set traps for malicious actors. Honeytokens are dormant accounts that trigger alerts upon any authentication attempt, helping to detect unauthorized access and lateral movement within the network, aligning with the Zero Trust framework by ensuring continuous verification and monitoring.
 
 ## Reference
-[Deceptive Defense: Best Practices for Identity-Based Honeytokens in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/deceptive-defense-best-practices-for-identity-based-honeytokens-in-microsoft)
+* [Deceptive Defense: Best Practices for Identity-Based Honeytokens in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/deceptive-defense-best-practices-for-identity-based-honeytokens-in-microsoft-def/3851641)
+* [Defender for Identity entity tags in Microsoft Defender XDR](https://learn.microsoft.com/en-us/defender-for-identity/entity-tags#honeytoken-tags)
